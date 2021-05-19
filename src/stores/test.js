@@ -1,3 +1,3 @@
 import { writable } from 'svelte-local-storage-store'
 
-export const count = writable(0)
+export const count = writable('cr', 0)

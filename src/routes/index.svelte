@@ -1,6 +1,6 @@
 <script>
 import { get } from 'svelte/store'
-import { count } from './../stores/test'
+import { count } from './../stores/test.js'
 
 function decrement() {
     count.update(n => n - 1);

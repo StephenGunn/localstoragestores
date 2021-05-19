@@ -15,12 +15,12 @@
     "eslint-plugin-svelte3": "^3.2.0",
     "prettier": "~2.2.1",
     "prettier-plugin-svelte": "^2.2.0",
-    "svelte": "^3.34.0"
+    "svelte": "^3.34.0",
+    "svelte-local-storage-store": "^0.2.0"
   },
   "type": "module",
   "dependencies": {
     "sass": "^1.32.13",
-    "svelte-local-storage-store": "^0.2.0",
     "svelte-preprocess": "^4.7.3"
   }
 }
